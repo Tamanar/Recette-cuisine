@@ -33,7 +33,7 @@ ingrédient :
 - 60g de cacahuètes grillées
 
 Hacher oignon, ail et échalotte et les réserver ensemble  
-Couper Le tofu en vube d'un cm environ  
+Couper Le tofu en cube d'un cm environ  
 Couper la cébette en tronçon de 5 cm environ  
 Piller les cacahuètes  
 Si poulet le couper en tronçon en faisant des tranches à 45° dans le poulet
