@@ -4,7 +4,7 @@
 Pour 4L:
 * 300g de gingembre
 * 4 citrons
-* 500g de sucre
+* 400g de sucre
 * 1/2 paquet de levure de boulanger
 * 4L d'eau
 
