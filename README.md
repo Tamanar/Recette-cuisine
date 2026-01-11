@@ -5,4 +5,5 @@ Liste de recette de cuisine:
 [Crêpe](Crêpe.md)  
 [Croque-monsieur](Croque-monsieur.md)  
 [Ginger-beer](Ginger-beer.md)  
-[Pad-thai](Pad-thai.md)
+[Pad-thai](Pad-thai.md)  
+[Pâte-brisé](pate-brisee-huile-d-olive.md)
