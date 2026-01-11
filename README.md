@@ -6,4 +6,5 @@ Liste de recette de cuisine:
 [Croque-monsieur](Croque-monsieur.md)  
 [Ginger-beer](Ginger-beer.md)  
 [Pad-thai](Pad-thai.md)  
-[Pâte-brisé](pate-brisee-huile-d-olive.md)
+[Pâte-brisé](pate-brisee-huile-d-olive.md)  
+[Brioche-super-bonne](Brioche-super-bonne.md)  
